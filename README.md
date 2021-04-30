@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Isaque, a Berlin-based software engineer who proudly has been building digital products since 2013. My main focus area are frontend architecture and infrastructure, code design patterns, performance and user experience.
+
+### Projects I proudly maintain
+
+- [Destructure Depth Eslint Plugin](https://github.com/isaquediasm/eslint-plugin-destructure-depth)
+- [Redux Tracking Middleware](https://github.com/isaquediasm/redux-tracking-middleware)
+- [React Placeholder Canvas](https://github.com/isaquediasm/react-placeholder-canvas)
+- [Calango.js](https://github.com/isaquediasm/calango.js)
+- [Shaker.js](https://github.com/isaquediasm/shaker.js)
+
 <!--
 **isaquediasm/isaquediasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
